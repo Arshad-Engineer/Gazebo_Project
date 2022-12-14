@@ -45,7 +45,7 @@
 
  - Build the package
  ```
- colcon build --packages-select cpp_pubsub
+ colcon build --packages-select gazebo_walker
  ```
 
  - open new terminal
