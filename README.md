@@ -1,5 +1,4 @@
 # Gazebo_Project
-# beginner_tutorials
 # Overview:
  - Implement a simple walker algorithm much like a Roomba robot vacuum cleaner.
  - Google Style Guide was followed in all the cpp files
