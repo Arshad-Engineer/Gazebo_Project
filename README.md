@@ -40,7 +40,7 @@
 
  - Check for missing dependencies before building the package
  ```
- rosdep install -i --from-path src --rosdistro humble -y
+ rosdep install -i --from-path src --rosdistro galactic -y
  ```
 
  - Build the package
